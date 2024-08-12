@@ -1,0 +1,28 @@
+.parentbox{
+    background-color: rgb(135, 223, 240);
+}
+.childbox{
+    background-color: aquamarine;
+    border: 3px solid red;
+}
+.child{
+    background-color: hsl(31, 100%, 50%);
+    margin: 10px;
+}
+.wrapper{
+    border: 3px solid red;
+    padding: 20px;
+}
+.bgred{
+    background-color: brown;
+}
+.dottedborder{
+    border: 3px dotted green;
+}
+ul{
+    border: 2px solid red;
+}
+.wrapper{
+    height: 250px;
+    overflow: auto;
+}
